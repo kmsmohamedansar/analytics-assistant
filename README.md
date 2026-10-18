@@ -1,3 +1,9 @@
+## In plain English
+
+This project compares two ways of answering business questions: fixed rules and a local AI model. Both use the same tools and face the same test questions, making it possible to see when AI helps, when it makes mistakes, and how much the answer can be trusted.
+
+**Status:** Measured prototype using fictional data.
+
 # Analytics assistant: rules versus a local AI, measured
 
 Ask a plain-English question about a year of grocery sales and get an answer, a chart, and the exact list of tool calls behind it. Two "brains" can answer, on the same screen:
